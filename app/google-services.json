@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "234209457851",
+    "project_id": "nut2earn",
+    "storage_bucket": "nut2earn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234209457851:android:58dcc385b20cc115c69b9e",
+        "android_client_info": {
+          "package_name": "com.nut2earnio.nut2earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTvCk8YvocV7bU-cqx5pb9Edjp3NaSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234209457851-2irh6jc5lidv4hv5cajheg6evofr29g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nut2earnio.nut2earn",
+                "app_store_id": "65990"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234209457851:android:33f11edc9a23a0c9c69b9e",
+        "android_client_info": {
+          "package_name": "com.nut2earn.app200494"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234209457851-jmmdke4l7ig4nerav33qc5df7lam6u64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nut2earn.app200494",
+            "certificate_hash": "8b091c3911c1ebd79681c3f5dc43c4b68f2fcb6a"
+          }
+        },
+        {
+          "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTvCk8YvocV7bU-cqx5pb9Edjp3NaSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234209457851-2irh6jc5lidv4hv5cajheg6evofr29g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nut2earnio.nut2earn",
+                "app_store_id": "65990"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234209457851:android:8d1c5d4899e84260c69b9e",
+        "android_client_info": {
+          "package_name": "com.nut2earnio.nut2earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTvCk8YvocV7bU-cqx5pb9Edjp3NaSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234209457851-2irh6jc5lidv4hv5cajheg6evofr29g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nut2earnio.nut2earn",
+                "app_store_id": "65990"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234209457851:android:1317e64d73108ab9c69b9e",
+        "android_client_info": {
+          "package_name": "nutearn.app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234209457851-erqunqakkcv6di86sgv9djg81c7u8upp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nutearn.app.app",
+            "certificate_hash": "a4eb4d3ab68ae872b0ab755d31057c7d784ae1a8"
+          }
+        },
+        {
+          "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTvCk8YvocV7bU-cqx5pb9Edjp3NaSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234209457851-gc50fmk3o48f26vc1fd8bmv1tgjh0fap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234209457851-2irh6jc5lidv4hv5cajheg6evofr29g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nut2earnio.nut2earn",
+                "app_store_id": "65990"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
